@@ -15,7 +15,6 @@
 /^https?://(?:\w+[.])?twitter[.]com(?:/(?:pg/)?|\b[^#]+#!/)XtianResistance(?=[/?#]|$)/
 /^https?://(?:\w+[.])?twitter[.]com(?:/(?:pg/)?|\b[^#]+#!/)Burning___Bush(?=[/?#]|$)/
 /^https?://(?:\w+[.])?twitter[.]com(?:/(?:pg/)?|\b[^#]+#!/)jamaalw27(?=[/?#]|$)/
-/^https?://(?:\w+[.])?twitter[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?=[/?#]|$)/
 /^https?://(?:\w+[.])?twitter[.]com(?:/(?:pg/)?|\b[^#]+#!/)helgihh(?=[/?#]|$)/
 /^https?://(?:\w+[.])?twitter[.]com(?:/(?:pg/)?|\b[^#]+#!/)JesussavedCraig(?=[/?#]|$)/
 /^https?://(?:\w+[.])?twitter[.]com(?:/(?:pg/)?|\b[^#]+#!/)lyfetreker(?=[/?#]|$)/
