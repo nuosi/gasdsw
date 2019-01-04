@@ -10,17 +10,10 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/pastorboboliver(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/michael.sinski(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/charlie.deitrick(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/diaz786?fref=gs&__tn__=%2CdlC-R-R&eid=ARAKakra1mMuOzQHDn0wtMpVOn02B2_z2YEHb4En8ky3NrcbZMoDMF5rYkjo-TN8Du2VjSh4zh2Vj17U&hc_ref=ARSpELrO3e_VMGDIaWIjF9M4n1ROtSbHNcayXVSueaPY0Nyj1UoY9rKNSyQ0rFlq578&dti=467893676702634&hc_location=group(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/nattie.palonpon?fref=gm&__tn__=%2Cd-_-R&eid=ARCaMXWXg8SUV0D-lYX5gHWqF-h9coSiBDQwNt90qILZGblmb3PiwZ5_D_zYineuSujbvzx2gmR_htNB&dti=843131569118491&hc_location=group(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/marilou.hocino(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/james.chanbonpin?fref=gc&dti=137423670377417(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/bob.sampson.378(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/mc.banico?lst=100010223294907%3A100014289944404%3A1542421084(?=[/?#]|$)/
+/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/mc.banico?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/messages/t/glennr.harrison(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/johnpupps(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100002501276530(?=[/?#]|$)/
@@ -34,13 +27,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/antony.m.baines(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100010067581932&fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/david.jj.35?fref=gc&dti=525880964528051(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/BathanLimuel(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=1489846563&lst=100024631443714%3A1489846563%3A1537596070(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/johnpupps(?=[/?#]|$)/
@@ -58,14 +44,11 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/henry.clark.90410834?fref=pb&hc_location=profile_browser(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/timothy.hulsey.73?fref=gs&hc_ref=ARTxXTuhycefGTn4IzkX0eiSXCqVrCGcDdtjX7a1CfYfKns_-Im42sNu5HPLXIOUgkY&dti=514650685228377&hc_location=group(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/bobbie.aistrop?fref=gc&dti=418144781678073(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/john.cassidy.188?fref=gc&dti=355484984615835(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/Ajowavi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/jackiecurry1966(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/SteveKirtleyGospelMusic?fref=gc&dti=71284877762(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/daryl.schoenecker?fref=gc&dti=232224386833756(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/crystal.hoffmaster.7(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/caesar.monty(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/PleaseLordSendUsDoubleYourAnointing(?=[/?#]|$)/
@@ -73,7 +56,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/jason.winters.9237?fref=gc&dti=1708694229380412(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/jaylene.daugherty.9?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/bradfordj97?fref=gc&dti=328249367252546(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/paul.kocourek(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/PleaseLordSendUsDoubleYourAnointing?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/abrit777?fref=ufi(?=[/?#]|$)/
@@ -161,7 +143,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100009662829283&fref=gc&dti=250462015323353(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/ben.willsmorgan.3(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/junaidu.saidugummi(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/george.keffer(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/michael.c.torres(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/jordan.mcconnell.35(?=[/?#]|$)/
@@ -194,7 +175,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/Herculucy?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/lhoiching(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100010258022059(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/carole.hanchey?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/khoo.hing.1(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100012316538345(?=[/?#]|$)/
@@ -208,7 +188,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/SARAHMAX8?fref=ufi&rc=p(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/pcc5662115(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/ting.e.ling.7(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/castetroy.huang(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/RevRayRivera(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/ed.gross.121(?=[/?#]|$)/
@@ -228,7 +207,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/firstpaulchi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/pamela.gilbert.7543?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/eugene.chen.319(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/carrascofamilia?fref=gs&hc_ref=ARThEw4nFA4y5exloaQgkj3AFFB6PtSMmGPhuO61MSv5mMNZmGIKJGeCfG4dKJkekTc&dti=1574461019456796&hc_location=group(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/jackson.fok.77?fref=ufi&rc=p(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/guadalupe.guerra.31105?lst=100017694674500%3A100012051797302%3A1520774495(?=[/?#]|$)/
@@ -238,11 +216,9 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/khoo.hing.1(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/aquilla.long?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/enming.xie(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/ken.cummings.7334(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/toko.tokoyaki(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/lester.rhodes.9(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/leongchuan.gan?fref=ufi&rc=p(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/xuanan.fong?fref=pb&hc_location=profile_browser(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/aartimahur.aartimahur(?=[/?#]|$)/
@@ -252,7 +228,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/chen.liencheng?fref=ufi&rc=p(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100022285140629&fref=ufi&rc=p(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/TonySoldo/posts/10214853235298895(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/ivetteelisa.santiago(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/shannon.johnson.7773?fref=gc&dti=1941077559444648(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/terry.ward.186590?lst=100009118282668%3A100006419708824%3A1526040255(?=[/?#]|$)/
@@ -685,7 +660,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/highcloudrider(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/danielalunyu.ojara(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/loh.clloh(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/yuet.waiso(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100009503469418(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/suci.dalamdebu.904750(?=[/?#]|$)/
@@ -1073,7 +1047,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100011592395053(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100014627645807(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/zhe.lin.12(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/dynammo.kaboom2?lst=100009710644918%3A100000702795764%3A1490578528(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100008196279546(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/scheng55(?=[/?#]|$)/
@@ -1165,7 +1139,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/bubbyc.dunntruebeliever(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/james.lambert.3511041?fref=ts(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/justin.edwards.3597(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/bright.ho.3(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100007061282060(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/dayne.ramsundar?fref=ufi(?=[/?#]|$)/
@@ -1501,7 +1475,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/joshua.x.huang?hc_ref=NEWSFEED(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/permalink.php?story_fbid=1300033436760622&id=100002619353759&pnref=story(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100005423916522&fref=nf&pnref=story.unseen-section(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/jessie.yuan.75?fref=ufi&rc=p(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100000033117786(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/lorenzo.heighway?fref=ufi(?=[/?#]|$)/
@@ -1674,7 +1647,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/constantine.ong.1?fref=ufi&rc=p(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/mam.director?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100010910643904(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?被他拉黑，搜索不到了(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/atom4488?fref=pb&hc_location=profile_browser(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/curt.lysaker?hc_ref=ARTAsS85MZgD_BB3j1Tk9NyVfFZmXRk5pNsywEoRyU5THA8CAK4FsHZ6l36C_CbTpZI&fref=nf(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100010286826090&fref=ufi(?=[/?#]|$)/
@@ -1696,7 +1668,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100004949059179&fref=pb&hc_location=profile_browser(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/sherry.bigcharles?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/deb.marcum.31(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/Agapewave(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100010054275519&fref=ufi&rc=p(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/Nobby1844?fref=ufi(?=[/?#]|$)/
@@ -1904,8 +1876,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100017491937436&fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/dogdog2014?fref=jewel(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100004008246973&fref=pb&hc_location=profile_browser(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/alfred.wang.7311(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/LenoxMagee(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/richie.tiew?fref=pb&hc_location=profile_browser(?=[/?#]|$)/
@@ -2223,8 +2193,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/loyd.owen?lst=100010119767235%3A1163708783%3A1484442638(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/pliow(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/craigholme3(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/fuhsien.wang.16(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100008251440739(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100014724733436(?=[/?#]|$)/
@@ -2283,7 +2251,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/afclawendy?fref=ts(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/durga.ghale.543(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/bubbyc.dunntruebeliever?fref=ufi(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/hocheong.chan.75?fref=pb&hc_location=profile_browser(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/irene.li.798?fref=pb&hc_location=profile_browser(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/jamesong1977?fref=pb&hc_location=profile_browser(?=[/?#]|$)/
@@ -2392,7 +2360,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100015840553293&fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100000069863034(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/jennifer.swesey.5(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/fu.chan.165?ref=br_rs(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100015515767538&fref=ts(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100003483942367&fref=pb&hc_location=friends_tab(?=[/?#]|$)/
@@ -2491,7 +2459,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100021978172720(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/clay.hall.58152?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/mike.ferrier.5(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/diane.sandford.73?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/aaron.hale.1272?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/karen.benrot?fref=ufi(?=[/?#]|$)/
@@ -2824,7 +2792,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/banbandinosaur(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100004267996587(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/orangutan.psrt(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100015227190021(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100000200497701(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/Rebecca3344520(?=[/?#]|$)/
@@ -3062,7 +3030,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/andrew.ho.7796420(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100009339489775&lst=100014571854993%3A100009339489775%3A1483331764(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/andrew.luk.904(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?被拉黑链接没有(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/and.brant(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/floresandreyes?fref=ufi(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/angelsinyee(?=[/?#]|$)/
@@ -3282,7 +3249,6 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/haiping.tang.90(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/haksikh.maotao(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/nyukhan.chin/photos?pnref=lhc(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/hana.ho.37(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/hana.tian.9(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/felix.maderajr(?=[/?#]|$)/
@@ -3439,7 +3405,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/leoyong2201(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/les.rudnisky(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/lihuih1(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100008299052363(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/liew.sookmun.1(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/liew.yenlee(?=[/?#]|$)/
@@ -3448,7 +3414,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/lim.s.lai.9(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/thiambeng.lim(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/linda.nucholssmith(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/linda.morales.71404976(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/lingkhe.ong.9(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/lisa.fang.3998(?=[/?#]|$)/
@@ -3517,7 +3483,7 @@
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100014811522654(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/miles.pakiwon(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/mingmei.yang.3(?=[/?#]|$)/
-/^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?(?=[/?#]|$)/
+
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100009655627732(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/MStefanV(?=[/?#]|$)/
 /^https?://(?:\w+[.])?facebook[.]com(?:/(?:pg/)?|\b[^#]+#!/)(?:[^/?#]+-)?/profile.php?id=100014702738518(?=[/?#]|$)/
